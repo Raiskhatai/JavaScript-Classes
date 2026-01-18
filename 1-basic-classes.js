@@ -1,3 +1,6 @@
+// Class ek blueprint / template hoti hai jiske through hum objects create karte hain.
+// Class me properties (data) aur methods (functions) define hote hain, jisse code organized aur reusable banta hai.
+
 class Rectangle {
   constructor(width, height, color) {
     this.width = width;
